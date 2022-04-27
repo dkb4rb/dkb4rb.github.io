@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "dkb4rb.io"
+title                    : "dkb4rb.github.io"
 title_separator          : "-"
 name                     : "Dkb4rb"
 description              : "Posts about security, CTFs and networking"
