@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "dkb4rb.github.io"
+title                    : "H4ck 4n3t"
 title_separator          : "-"
 name                     : "Dkb4rb"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://dkb4rb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "github/github.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "dkb4rb/dkb4rb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
